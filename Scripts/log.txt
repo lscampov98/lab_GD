@@ -1,0 +1,58 @@
+Log generado Sun Oct  6 13:15:00 -05 2024
+
+Iniciando proceso ETL
+
+Dataset Terrazas
+Columnas eliminadas: 4
+Registros eliminados: 25100
+Dataset Locales
+Columnas eliminadas: 12
+Registros eliminados: 1778592
+Dataset Licencias
+Columnas eliminadas: 3
+Registros eliminados: 396513
+Dataset Books
+Columnas eliminadas: 1
+Registros eliminados: 431
+Filas duplicadas eliminadas: 265
+Archivo leído: Licencias_Locales_202104.csv
+Archivo leído: Licencias_Locales_202204.csv
+Archivo leído: Terrazas_202104.csv
+Archivo leído: Locales_202104.csv
+Archivo leído: books.json
+Registro insertado correctamente a Dim_Fecha
+Registro insertado correctamente a Dim_Licencias.
+Registro insertado correctamente a Dim_Ubicacion.
+Registro insertado correctamente a Dim_Terraza.
+Registro insertado correctamente a Dim_Local.
+Registro insertado correctamente a Fact_licencias_terrazas.
+
+Log generado Sun Oct  6 13:30:00 -05 2024
+
+Iniciando proceso ETL
+
+Dataset Terrazas
+Columnas eliminadas: 4
+Registros eliminados: 25100
+Dataset Locales
+Columnas eliminadas: 12
+Registros eliminados: 1778592
+Dataset Licencias
+Columnas eliminadas: 3
+Registros eliminados: 396513
+Dataset Books
+Columnas eliminadas: 1
+Registros eliminados: 431
+Filas duplicadas eliminadas: 265
+Archivo leído: Licencias_Locales_202104.csv
+Archivo leído: Licencias_Locales_202204.csv
+Archivo leído: Terrazas_202104.csv
+Archivo leído: Locales_202104.csv
+Archivo leído: books.json
+Registro insertado correctamente a Dim_Fecha
+Registro insertado correctamente a Dim_Licencias.
+Registro insertado correctamente a Dim_Ubicacion.
+Registro insertado correctamente a Dim_Terraza.
+Registro insertado correctamente a Dim_Local.
+Registro insertado correctamente a Fact_licencias_terrazas.
+
